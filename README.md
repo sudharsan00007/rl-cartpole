@@ -139,4 +139,4 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 ## RESULT:
 
-Write your result here
+Thus, a Python program is developed to find the optimal policy for the given cart-pole environment using the Monte Carlo algorithm
